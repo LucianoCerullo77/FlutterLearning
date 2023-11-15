@@ -14,5 +14,15 @@ void main() {
   print('Reversed ${numbers.reversed}');
 
   final reversedNumbers = numbers.reversed;
+  print('Iterable : $reversedNumbers');
+  print('List : ${reversedNumbers.toList()}');
+  print('Set: ${reversedNumbers.toSet()}');
+
+  final numbersGreaterThan5 = numbers.where((num) {
+    return num > 5;
+  });
+
+  print('>5 Iterable : $numbersGreaterThan5');
+  print('>5 Set : ${numbersGreaterThan5.toSet()}');
 
 }
