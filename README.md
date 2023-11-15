@@ -3,7 +3,7 @@
 Course Started with Dart.
 
 Learning on course:
-Section 1 :
+* Section 1 :
 * Hola Mundo
 * Tipos de datos
 * Estructuras de colección de datos
