@@ -2,21 +2,33 @@ void main(){
 
   final mySquare = Square(side: 10);
 
+  mySquare.side = 5;
+
   print('area: ${mySquare.area}');
 
 }
 
 class Square {
-  double side; //side * side
+  // with _ we make it private
+ double _side; //side * side
 
-  Square({required this.side});
+  Square({required double side}) : _side = side;
 
+  // getter mean that can be used on the something."area"
   double get area {
-    return side * side;
+    return _side * _side;
+  }
+
+  set side(double value){
+    print('setting new value $value');
+    if (value < 0) throw 'Value must be greater than 0';
+
+    _side = value;
+
   }
 
   double calculateArea() {
-    return side * side;
+    return _side * _side;
   }
 }
 
