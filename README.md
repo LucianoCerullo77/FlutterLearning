@@ -3,7 +3,7 @@
 Course Started with Dart.
 
 Current Section 1 
-#Learning on course:
+## Learning on course:
 * Section 1 :
 * Hola Mundo
 * Tipos de datos
