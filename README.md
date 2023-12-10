@@ -2,8 +2,8 @@
 
 Course Started with Dart.
 
-Current Section 1 
-## Learning on course:
+Current Section 2
+## Learn:
 * Section 1 :
 * Hola Mundo
 * Tipos de datos
@@ -17,3 +17,16 @@ Current Section 1
 * Streams
 * Async, Async* y Await
 * Decoradores (@override)
+
+## Learning on course: 
+* Flutter
+* Windows
+* Mac
+* Equipos virtuales:
+* Windows
+* Mac
+
+## Correr aplicación en dispositivos Físicos
+
+* Android - Windows y Mac
+* iOS - Mac
