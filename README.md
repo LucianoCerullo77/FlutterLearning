@@ -3,7 +3,7 @@
 Course Started with Dart.
 
 Current Section 2
-## Learn:
+## Learned:
 * Section 1 :
 * Hola Mundo
 * Tipos de datos
@@ -17,14 +17,24 @@ Current Section 2
 * Streams
 * Async, Async* y Await
 * Decoradores (@override)
-
-## Learning on course: 
 * Flutter
 * Windows
 * Mac
 * Equipos virtuales:
 * Windows
 * Mac
+
+## Currently Learning : 
+* Stateful y Stateless Widgets
+* Scaffold
+* FloatingActionButtons
+* Column
+* Widgets personalizados
+* Constantes
+* MaterialApp
+* Introducción a Material Design 3
+* Color Schemes
+* AppBars
 
 ## Correr aplicación en dispositivos Físicos
 
