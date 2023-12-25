@@ -43,7 +43,7 @@ class _CounterScreenState extends State<CounterScreen> {
           clickCounter++;
 
           // adding new method, if clickCounter is equal to 1, then the counterText will say click, if is more than 1, it will say clicks!
-          if (clickCounter != 1 ) {
+          if (clickCounter != 1) {
             counterText = "Clicks";
           }
 
