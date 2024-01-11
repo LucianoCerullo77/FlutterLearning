@@ -1,6 +1,7 @@
 # FlutterLearning
 
 Course Started with Dart.
+Currently stopped.
 
 Current Section 2
 ## Learned:
